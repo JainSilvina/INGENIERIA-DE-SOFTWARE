@@ -1,5 +1,0 @@
-
-g++ tateti.cpp -o tateti -lraylib -lGL -lm -lpthread -ldl -lrt
-
-./tateti
-
